@@ -8,6 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+*.pdf
+promt
+promt.txt
+redes_whatsap
+redes_whatsap.txt
 dist
 dist-ssr
 *.local
